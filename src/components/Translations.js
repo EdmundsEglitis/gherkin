@@ -2,7 +2,7 @@ const Translations = () => {
   return (
     <div>
       <h2>Gherkin termini</h2>
-      <table >
+      <table border="1">
         <thead>
           <tr>
             <th>Angļu valodā</th>
